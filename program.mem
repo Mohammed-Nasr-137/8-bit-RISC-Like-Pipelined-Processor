@@ -1,0 +1,6 @@
+C5  // 00: LDD R1, [Addr] (Op=C, ra=1, rb=1 -> C5)
+0A  // 01: Address 0x0A
+29  // 02: ADD R2, R1     (Op=2, ra=2, rb=1 -> 29)
+00  // 03: NOP
+00  // 04: NOP
+00  // 05: NOP
