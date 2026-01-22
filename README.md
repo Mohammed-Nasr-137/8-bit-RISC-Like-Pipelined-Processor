@@ -10,7 +10,7 @@ The design balances complexity with performance, integrating advanced architectu
 
 
 
-[Image of Von Neumann architecture block diagram]
+![5-Stage Pipeline Diagram](./Submissions/Block Diagram.png)
 
 
 ---
