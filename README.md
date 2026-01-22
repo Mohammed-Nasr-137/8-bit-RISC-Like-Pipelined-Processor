@@ -10,7 +10,7 @@ The design balances complexity with performance, integrating advanced architectu
 
 
 
-![5-Stage Pipeline Diagram](./Submissions/Block Diagram.png)
+![5-Stage Pipeline Diagram](./images/Block Diagram.png)
 
 
 ---
