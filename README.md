@@ -10,7 +10,7 @@ The design balances complexity with performance, integrating advanced architectu
 
 
 
-![5-Stage Pipeline Diagram](./images/Block Diagram.png)
+![5-Stage Pipeline Diagram](./images/block_diagram.png)
 
 
 ---
@@ -39,6 +39,9 @@ The processor utilizes a fully integrated datapath where control logic, memory m
 
 ### 2. Decode Stage (ID)
 * **Control Unit (FSM):** Generates control signals and manages multi-cycle operations like Interrupts and Returns.
+  
+  ![FSM](./images/FSM.png)
+  
 * **Hazard Handling:** Performs early forwarding and stall generation to ensure data integrity.
 
 ### 3. Execute Stage (EX)
